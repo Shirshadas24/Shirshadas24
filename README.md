@@ -16,6 +16,10 @@
 - Tools: Git, GitHub, Postman, VSCode
 
 # 🧪 Projects:
+
+## 🤖 AI-Powered Applications:
+- 🔃 Coming up...
+
 ## 🌐 Foundational Web Dev Projects:
 - 🔎 **Search App** – Aggregates YouTube, blogs, articles, and papers via APIs
                            -- 📌 [Repository](https://github.com/Shirshadas24/search-app)  
@@ -25,7 +29,9 @@
                            -- 📌 [Repository](https://github.com/Shirshadas24/Tic-tac-Toe)
 - 💵 **Currency Converter** - JavaScript-based interactive currency converter
                            -- 📌 [Repository](https://github.com/Shirshadas24/CurrencyConverter)
-## 🤖 AI-Powered Applications:
-- 🔃 Coming up...
+- 💻 **Jobs Page** - A React-based jobs page that allows users to browse and search for job listings.
+                           -- 📌 [Repository](https://github.com/Shirshadas24/Jobs-page)
+  
+
 ## 📫 Let’s Connect:
 [LinkedIn](https://www.linkedin.com/in/shirsha-das-70707p)  | [Email](mailto:shirshadas.24@gmail.com)
