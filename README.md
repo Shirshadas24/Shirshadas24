@@ -32,6 +32,9 @@
 - 💻 **Jobs Page** - A React-based jobs page that allows users to browse and search for job listings.
                            -- 📌 [Repository](https://github.com/Shirshadas24/Jobs-page)
   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirshadas24)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Shirshadas24)
+ # ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shirshadas24) 
 
 ## 📫 Let’s Connect:
 [LinkedIn](https://www.linkedin.com/in/shirsha-das-70707p)  | [Email](mailto:shirshadas.24@gmail.com) | [Medium](https://medium.com/@shirshadas.24) | [Kaggle](https://www.kaggle.com/shirshadas)
