@@ -1,18 +1,19 @@
-# 👋 Hi, I'm Shirsha!
+# Hi, I'm Shirsha!
 
 🎓 B.Tech CSE (2022–2026) | GCELT  
-🧠 AI/ML Enthusiast | Exploring Machine Learning, Deep Learning, GenAI
-💻 Former Web Dev | Now crafting AI-powered solutions
+- AI/ML Enthusiast 
+- Exploring Machine Learning, Deep Learning, GenAI
+- Crafting AI-powered solutions
 
 ---
 
 # 🔍 Currently Exploring:
 - Machine Learning & Deep Learning (Supervised & Unsupervised Learning, CNNs, RNNs, Transformers, Model Training, NLP, BERT)
 - Computer Vision & NLP
-- Generative AI & LLMs (LangChain, Langgraph, Model Fine-tuning, RAG Pipelines, AI Agents, Chatbots, API Integration)
+- Generative AI & LLMs (LangChain, Langgraph, Model Fine-tuning, RAG Pipelines, AI Agents, Chatbots, API Integration, SQLite)
 - Tools & Libraries: TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Seaborn, Matplotlib, Plotly, Git, GitHub, Postman, VSCode
 
-# 🛠️ Previously Worked With:
+# Also Worked With:
 - Web Dev: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
 
@@ -23,13 +24,9 @@
                            -- 📌 [Repository](https://github.com/Shirshadas24/Agentic-Chatbot-memory-web-search)
 - **YojnaBot** - – AI-Powered Multilingual Chatbot for Indian Government Schemes
                            -- 📌 [Repository](https://github.com/Shirshadas24/State-and-Central-Yojna/tree/main/backend)
-## 🌐 Foundational Web Dev Projects:
+### 🌐 Foundational Web Dev Projects:
 -  **Search App** – Aggregates YouTube, blogs, articles, and papers via APIs
                            -- 📌 [Repository](https://github.com/Shirshadas24/search-app)  
--  **Tic Tac Toe Game** – JavaScript-based interactive browser game
-                           -- 📌 [Repository](https://github.com/Shirshadas24/Tic-tac-Toe)
--  **Currency Converter** - JavaScript-based interactive currency converter
-                           -- 📌 [Repository](https://github.com/Shirshadas24/CurrencyConverter)
 -  **Jobs Page** - A React-based jobs page that allows users to browse and search for job listings.
                            -- 📌 [Repository](https://github.com/Shirshadas24/Jobs-page)
   
