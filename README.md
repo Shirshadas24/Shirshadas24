@@ -13,7 +13,6 @@
 
 # Don't forget to check my projects :
 
-## 🤖 AI-Powered Applications:
 - **Agentic Chatbot with memory and web search** 
 - **MultiAgentic Frontend Developer** -
 - and many more.....
